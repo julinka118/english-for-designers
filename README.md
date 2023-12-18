@@ -12,6 +12,7 @@
 ## About
 
 Hello, my name is Julie.
+I love taking pictures
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
