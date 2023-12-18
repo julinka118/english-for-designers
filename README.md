@@ -11,7 +11,7 @@
 
 ## About
 
-Hello, my name is Julie.
+Hello, my name is Julie.I'm photographer in Prague, but Iˇm open to take picture anywhere
 I love taking pictures. Photography is my passion.
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
