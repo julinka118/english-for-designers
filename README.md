@@ -11,8 +11,10 @@
 
 ## About
 
-Hello, my name is Julie.I'm photographer in Prague, but Iˇm open to take picture anywhere
+Hello, my name is Julie. I'm photographer in Prague, but I'm open to take picture anywhere
 I love taking pictures. Photography is my passion.
+![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
+
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
