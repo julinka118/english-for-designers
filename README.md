@@ -11,15 +11,16 @@
 
 ## About
 
-Hello, my name is Julie. I'm photographer in Prague, but I'm open to take picture anywhere
-I love taking pictures. Photography is my passion.
+Hello, my name is Julie.
+I'm photographer based in Prague, but I'm open to take picture anywhere you want.
+Photography and travelling around the world are my lovers.
 ![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
 
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+## More about me
 
-![Write an alternative text description.](img/surname-headshot.jpg)
+I started my journey with a camera at the age of 13, when I got my first camera under the christmas tree. At the age of 16, I published my first cookbook and became more interested in professional photography. I photographed the second cookbook by myself, as I had more experience in food photography. Now I take pictures of food for cookbooks and on my blog. I like to take photos on my journeys and portraits or product photos. 
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+In my free time I like running, baking and cooking. I have my blog about food, where Iam writing my recipes.
 
 ## Featured Projects
 
