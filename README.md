@@ -11,9 +11,10 @@
 
 ## About
 
-Hello, my name is Julie.
+Hello, my name is Julie!
 I'm photographer based in Prague, but I'm open to take picture anywhere you want.
 Photography and travelling around the world are my lovers and I am happy to capture things that fascinate me.
+
 ![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
 
 ## More about me
@@ -22,11 +23,11 @@ I'm student of photography and I like to create new things. I have always been a
 
 In my free time I like running, baking and cooking. I have my blog about food, where Iam writing my recipes.
 
-## Featured Projects
+## Project 1
 
-A short description about the work.
+This is my biggest project and 
 
-### Featured Project 1 Title
+### Project 2
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
@@ -38,11 +39,8 @@ A short description about the work.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
-## Notes
+## Portfolio 
 
-Numbered comments about each featured project as presenter notes or speaking points.
 
-1. …
-2. …
-3. …
-<!-- And so on. -->
+
+
