@@ -41,11 +41,10 @@ The final product is Kuchařka pro mě a moje tělo and It exist around 5000 boo
 I made this work this year for my final thesis at my school. As you can see, I really like to take pictures about food. My topic was focused on how the photos look before and after the shoot. Before the photo shoot, It is time for foodstyling and choosing a suitable decoration, which sometimes takes many hours. I need good lights, composition and nice dishes. After the photo is taken it's time to eat the food and it takes only few minutes to ruin the setup and ecerything. 
 
 
-
+![5](https://github.com/julinka118/English-for-Designers/assets/154224512/38997cd2-5d05-421b-ae90-da3c7b0b0f24)
 ![3](https://github.com/julinka118/English-for-Designers/assets/154224512/bdbc1aa2-8d7b-45c6-9276-9c6321d0c892)
 ![2](https://github.com/julinka118/English-for-Designers/assets/154224512/db7502bb-f099-4ed2-897a-09802787238b)
 ![1](https://github.com/julinka118/English-for-Designers/assets/154224512/577bb4b0-b731-4ebb-a3ed-88cb5aa4ae08)
-
 
 
 
