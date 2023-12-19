@@ -12,6 +12,7 @@
 ## About
 
 Hello, my name is Julie!
+
 I'm photographer based in Prague, but I'm open to take picture anywhere you want.
 Photography and travelling around the world are my lovers and I am happy to capture things that fascinate me.
 
@@ -27,6 +28,7 @@ In my free time I like running, baking and cooking. I have my blog about food, w
 ## Project 1
 
 Cookbook for Smartpress publisher was my biggest photography project. After a long search for a photographer for my second book, I decided to photograph it myself. I learned everything about food photography by myself at that time. I cooked and photographed 90 recipes for the book. I mainly focused on colors and simple decoration to make the food look realistic. I didn't use any fake food. The book was published in 2022 and Its available in every bookshop in Czech Republic. 
+The final product is Kuchařka pro mě a moje tělo and It exist around 5000 books. 
 
 ![IMG_7984](https://github.com/julinka118/English-for-Designers/assets/154224512/e3b96909-ec02-43a1-85b9-d093f99983f9)
 
@@ -36,7 +38,10 @@ Cookbook for Smartpress publisher was my biggest photography project. After a lo
 
 ### Project 2
 
-I made this work for my final thesis at my school. My topic was focused on how the photos look before and after the shoot. Before the photo shoot, it's time for foodstyling and choosing a suitable decoration, which sometimes takes many hours.
+I made this work for my final thesis at my school. My topic was focused on how the photos look before and after the shoot. Before the photo shoot, it's time for foodstyling and choosing a suitable decoration, which sometimes takes many hours. After the photo is taken it's time to eat the food and it takes only few minutes to ruin the setup and ecerything. 
+
+![Uploading 1.jpg…]()
+
 
 
 
