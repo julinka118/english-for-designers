@@ -25,7 +25,11 @@ In my free time I like running, baking and cooking. I have my blog about food, w
 
 ## Project 1
 
-This is my biggest project and 
+Cookbook for Smartpress publisher was my biggest photography project. After a long search for a photographer for my second book, I decided to photograph it myself. I learned everything about food photography by myself at that time. I cooked and photographed 90 recipes for the book. I mainly focused on colors and simple decoration to make the food look realistic. I didn't use any fake food.
+![IMG_7984](https://github.com/julinka118/English-for-Designers/assets/154224512/e3b96909-ec02-43a1-85b9-d093f99983f9)
+
+
+
 
 ### Project 2
 
