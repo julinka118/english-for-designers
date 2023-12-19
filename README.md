@@ -26,7 +26,8 @@ In my free time I like running, baking and cooking. I have my blog about food, w
 
 ## Project 1
 
-Cookbook for Smartpress publisher was my biggest photography project. After a long search for a photographer for my second book, I decided to photograph it myself. I learned everything about food photography by myself at that time. I cooked and photographed 90 recipes for the book. I mainly focused on colors and simple decoration to make the food look realistic. I didn't use any fake food.
+Cookbook for Smartpress publisher was my biggest photography project. After a long search for a photographer for my second book, I decided to photograph it myself. I learned everything about food photography by myself at that time. I cooked and photographed 90 recipes for the book. I mainly focused on colors and simple decoration to make the food look realistic. I didn't use any fake food. The book was published in 2022 and Its available in every bookshop in Czech Republic. 
+
 ![IMG_7984](https://github.com/julinka118/English-for-Designers/assets/154224512/e3b96909-ec02-43a1-85b9-d093f99983f9)
 
 
@@ -34,15 +35,11 @@ Cookbook for Smartpress publisher was my biggest photography project. After a lo
 
 ### Project 2
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+I made this work for my final thesis at my school. My topic was focused on how the photos look before and after the shoot. Before the photo shoot, it's time for foodstyling and choosing a suitable decoration, which sometimes takes many hours.
 
-![Write an alternative text description.](img/featured-project-01.png)
 
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
 
-<!-- Use the same stucture above for the rest of your featured projects. -->
+
 
 ## Portfolio 
 
