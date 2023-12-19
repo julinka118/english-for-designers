@@ -33,6 +33,7 @@ Cookbook for Smartpress publisher was my biggest photography project. After a lo
 
 
 
+
 ### Project 2
 
 I made this work for my final thesis at my school. My topic was focused on how the photos look before and after the shoot. Before the photo shoot, it's time for foodstyling and choosing a suitable decoration, which sometimes takes many hours.
