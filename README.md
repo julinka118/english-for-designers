@@ -17,6 +17,7 @@ Photography and travelling around the world are my lovers and I am happy to capt
 
 ![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
 
+
 ## More about me
 
 I'm student of photography and I like to create new things. I have always been an extrovert and I like to communicate with people. I started my journey with a camera at the age of 13, when I got my first camera under the christmas tree. At the age of 16, I published my first cookbook and became more interested in professional photography. I photographed the second cookbook by myself, as I had more experience in food photography. Now I take pictures of food for cookbooks and on my blog. I like to take photos on my journeys and portraits or product photos. 
