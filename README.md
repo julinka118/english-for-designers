@@ -14,7 +14,7 @@
 Hello, my name is Julie!
 
 I'm photographer based in Prague, but I'm open to take picture anywhere you want.
-Photography and travelling around the world are my lovers and I am happy to capture things that fascinate me.
+Photography and travelling around the world are my lovers and I am happy to capture things that are fascinating me.
 
 ![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
 
@@ -31,7 +31,8 @@ Cookbook for Smartpress publisher was my biggest photography project. After a lo
 The final product is Kuchařka pro mě a moje tělo and now are printed around 5000 books. 
 
 About the book...
-Like many teenagers, I was looking for answers how to eat better.. And I found a lot, because practically everyone has an opinion on nutrition, but only a few really understand this complex topic. Therefore, when I was preparing this cookbook, I asked many experts and also the platform My Body is Mine, who helped me to answer this important questions about nutrition in an objective and sensitive way. But the book is primarily a cookbook. It contains 90 easy, tasty and vegetarian recipes. The cookbook for me and my body is intended for all those who are starting to take responsibility for their own nutrition. Cooking, shopping, planning, but also thinking about your own relationship with your body and food. The chapters are divided according to ingredients that are good to have at home, there is also a basic shopping list. All ninety recipes are described in detail so that everyone can understand them and be able to cook them themselves. The ingredients used in my book are cheap and available.
+
+Like many teenagers, I was looking for answers how to eat better. And I found a lot, because practically everyone has an opinion on nutrition, but only a few really understand this complex topic. When I was preparing this cookbook, I asked many experts and also the platform My Body is Mine, who helped me to answer this important questions about nutrition in an objective and sensitive way. But the book is primarily a cookbook. It contains 90 easy, tasty and vegetarian recipes. The cookbook for me and my body is intended for all those who are starting to take responsibility for their own nutrition. Cooking, shopping, planning, but also thinking about your own relationship with your body and food. The chapters are divided according to ingredients that are good to have at home, there is also a basic shopping list. All ninety recipes are described in detail so that everyone can understand them and be able to cook them themselves. The ingredients used in my book are cheap and available.
 
 ![269796264_999545394242172_4047195030856003723_n](https://github.com/julinka118/English-for-Designers/assets/154224512/8122f7aa-2b13-4c31-b5ef-d6e9f2052948)
 
