@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Featured Projects](#featured-projects)
+- [Contact](#contact)
 
 ## About
 
@@ -13,7 +14,7 @@ I'm a photographer based in Prague, but I'm open to take picture anywhere you wa
 
 Photography and travelling around the world are my passion, and I am happy to capture things that are fascinating me. My favorite is taking pictures of food, because I want to work in food industry.
 
-![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
+![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
 
 
 ## More about me
@@ -55,10 +56,10 @@ This is a caption.
 
 ![1](https://github.com/julinka118/English-for-Designers/assets/154224512/577bb4b0-b731-4ebb-a3ed-88cb5aa4ae08)
 
+## Contact
 
+Email or whatever.
 
-## Portfolio 
+### Portfolio 
 
 <https://julinka118e058.myportfolio.com>
-
-
