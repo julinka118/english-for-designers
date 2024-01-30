@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Featured Projects](#featured-projects)
+- [Writing](01-one-word/)
 - [Contact](#contact)
 
 ## About
