@@ -10,7 +10,7 @@
 Hello, my name is Julie!
 
 I'm photographer based in Prague, but I'm open to take picture anywhere you want.
-Photography and travelling around the world are my lovers and I am happy to capture things that are fascinating me.
+Photography and travelling around the world are my lovers and I am happy to capture things that are fascinating me. My favourite is taking pictures of food, because I want to work in food industry.
 
 ![Kučerovská](https://github.com/julinka118/English-for-Designers/assets/154224512/528cdca8-7a64-4547-b040-4833f1fc0bb0)
 
