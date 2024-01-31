@@ -59,7 +59,7 @@ This is a caption.
 
 ## Contact
 
-Email or whatever.
+julinka118@seznam.cz
 
 ### Portfolio 
 
