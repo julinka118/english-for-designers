@@ -6,9 +6,26 @@
 - [Featured Projects](#featured-projects)
 - [One word](01-one-word/)
 - [Contact](#contact)
+- [Voice and tone](#Voice and tone)
 
 
 ## Voice and tone
+My voice, tone and style
+
+My voice
+Sometimes I like my voice and sometimes I hate it. I like to communicate with another people, because I am not shy, and I don’t mind If I will say something wrong or true. When I was little I loved presentation, because I was main character in the class. Also, when I was teenager, I was presenting my cookbook in television or to the press. I was never nervous! Now Iam older and I hate presentation in class. I am always nervous, and I don’t know what to say next. I don’t like when people are watching me. But I have this problem with my voice only in presentation. When It is my turn to talk with people outside, I love to use my voice. 
+
+
+My tone
+My tone is always different. It depends, which people I am talking. With my friends and family, It is my normal high tone, but when I speak with people, which I don’t know I am shy and my tone is lower. When I have fun and I spend time with my favourite people, I am so loud. My mother told me, when I was little I was really screaming and always talking. She could heard me from big distance. Lot of people told me, that I look arrogant, but when I started talking, they knew I am not. My problem is, that I really care, what other people is thinking about me and I am trying to be someone else. But that is just not me. 
+
+Professional
+In work I tried to be kind and I think I look shy, but It is not true. I just don’t want to be rude and namyšlená. 
+
+
+Style
+I am very often using slang and emojis. When someone is not using emojis, I feel that they are angry at me. Sometimes I am speaking really fast and I don’t know, what I am saying. I am also really sarcastic, so people think I am crazy. 
+
   
 ## About
 
