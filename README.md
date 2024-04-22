@@ -6,7 +6,7 @@
 - [Featured Projects](#featured-projects)
 - [One word](01-one-word/)
 - [Contact](#contact)
-- [Voice and style](Voice and style/)
+
 ## About
 
 Hello, my name is Julie!
