@@ -6,6 +6,7 @@
 - [Featured Projects](#featured-projects)
 - [Writing](01-one-word/)
 - [Contact](#contact)
+- [Voice and tone](Voice and tone)
 
 ## About
 
