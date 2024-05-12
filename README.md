@@ -20,9 +20,11 @@ PRESENTATION -[REALITY IN FOODPHOTOGRAPHY.pdf](https://github.com/julinka118/eng
 AUDIO - [AJ Julie.m4a.zip](https://github.com/julinka118/english-for-designers/files/15282494/AJ.Julie.m4a.zip)
 
 ## Final review
-The end of three years at college is here. It's like yesterday when I stood in front of school for the first time and wondered how I would survive the three long years. I'm glad that it's almost over, but the hardest part is yet to come for all of us. That's what I thought until I started thinking about what to do with life after graduation. During the last year, I realized that there is almost nothing keeping me in the Czech Republic at the moment except my mother. My brother lives in another country and my friends have significant others, so they can do without me for a while. I feel that I have decided my luck and will apply to a school in Barcelona. I have always loved Spain and never tried to live there.
+The end of three years at college is here. It's like yesterday when I stood in front of school for the first time and wondered how I would survive the three long years here alone. I met a lot of talented people here and I'm glad I could be a part of their beginnings. I'm glad that it's almost over, but the hardest part is yet to come for all of us. I mean, I'm glad that the tasks will be over soon.:) That's what I thought until I started thinking about what to do with life after graduation. During the last year, I realized that there is almost nothing keeping me in the Czech Republic at the moment except my mother. My brother lives in another country and my friends have significant others, so they can do without me for a while. I feel that I have decided my luck and will apply to a school in Barcelona. I have always loved Spain and never tried to live there.
 During my last year, I was on a merry-go-round. Often up and often down. I was not very successful in my professional life, as well as finding a boyfriend or a steady job. But as they say, everything bad is good for something. I can try work or school in another country, because nothing is keeping me here anymore. Maybe it will open up new possibilities for me.
-So I wish everyone good luck with the exams and especially in life after school.
+This year I realized that it is not necessary to spend time with someone all the time. As an extrovert, I could never be alone, but after 2 months in Mallorca, where I arrived alone and left with a lot of friends around the world, I found out that being alone sometimes pays off.
+
+So I wish everyone good luck with the exams and especially in life after school!:)
 
 ## Voice and tone
 My voice, tone and style
