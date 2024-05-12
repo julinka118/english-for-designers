@@ -8,6 +8,7 @@
 - [Contact](#contact)
 - [Voice and tone](#Voice and tone)
 - [Thesis](#thesis)
+- [review](#review)
 
 ## Thesis
 Hello!
